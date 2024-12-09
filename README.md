@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
+| [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
