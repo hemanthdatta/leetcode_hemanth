@@ -1,13 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        l=[0,0]
-        n=len(nums)
-        for i in range(n):
-            for j in range(n-1):
-                if nums[i]+nums[j] == target:
-                    l[0],l[1]=i,j
-                    break
-        return l
-            
-
-        
+        hashmap = {}
+        for i in range(len(nums)):
+            hashmap[nums[i]] = i
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap and hashmap[complement] != i:
+                return [i, hashmap[complement]]
+        # If no valid pair is found, return an empty list
+        return []
