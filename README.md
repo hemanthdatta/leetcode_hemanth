@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
