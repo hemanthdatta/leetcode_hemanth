@@ -1,11 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap = {}
+        #we are using universal hashmap here
+        hashmap={}
         for i in range(len(nums)):
-            hashmap[nums[i]] = i
+            hashmap[nums[i]]=i
         for i in range(len(nums)):
-            complement = target - nums[i]
+            complement=target-nums[i]
             if complement in hashmap and hashmap[complement] != i:
-                return [i, hashmap[complement]]
-        # If no valid pair is found, return an empty list
+                return [i,hashmap[complement]]
+        
         return []
