@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
