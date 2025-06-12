@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
