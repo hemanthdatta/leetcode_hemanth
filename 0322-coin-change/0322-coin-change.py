@@ -2,31 +2,11 @@ from typing import List
 
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = {}
+        dp = [float('inf')] * (amount + 1)
+        dp[0] = 0  # Base case: 0 coins needed to make amount 0
 
-        def solve(cv, amount):
-            if amount == 0:
-                return 0
-            if cv < 0:
-                return -1
-            if (cv, amount) in dp:
-                return dp[(cv, amount)]
+        for coin in coins:
+            for x in range(coin, amount + 1):
+                dp[x] = min(dp[x], 1 + dp[x - coin])
 
-            res = float('inf')
-
-            # Option 1: take current coin if possible
-            if coins[cv] <= amount:
-                take = solve(cv, amount - coins[cv])
-                if take != -1:
-                    res = min(res, 1 + take)
-
-            # Option 2: skip current coin
-            skip = solve(cv - 1, amount)
-            if skip != -1:
-                res = min(res, skip)
-
-            # Finalize result
-            dp[(cv, amount)] = -1 if res == float('inf') else res
-            return dp[(cv, amount)]
-
-        return solve(len(coins) - 1, amount)
+        return dp[amount] if dp[amount] != float('inf') else -1
