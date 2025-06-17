@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
