@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
