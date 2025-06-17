@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Tree
 |  |
