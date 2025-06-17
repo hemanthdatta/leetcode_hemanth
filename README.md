@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,4 +259,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
