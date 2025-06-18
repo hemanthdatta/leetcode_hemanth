@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
