@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0326-power-of-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
