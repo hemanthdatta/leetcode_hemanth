@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
