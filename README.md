@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0697-degree-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0697-degree-of-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Tree
