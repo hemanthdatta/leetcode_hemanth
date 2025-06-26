@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
