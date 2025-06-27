@@ -1,26 +1,20 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        #question similar to rotten oranges but returning other one
-        original_color = image[sr][sc]
+        startcolor = image[sr][sc]
+        if startcolor == color:
+            return image  # No need to change anything
 
-        if original_color == color:
-            return image 
-        def dfs(image,sr,sc,color):
-            rows,cols=len(image),len(image[0])
-            if (sr<0 or sc<0 or sr>=rows or sc>=cols or image[sr][sc]!=original_color):
-                return
-            directions=[[0,1],[1,0],[0,-1],[-1,0]]
-            image[sr][sc]=color
-            for dr,dc in directions:
-                nr,nc=dr+sr,dc+sc
-                dfs(image,nr,nc,color)
+        m = len(image)
+        n = len(image[0])
+        directions = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 
-        dfs(image,sr,sc,color)
+        def dfs(i, j):
+            for dr, dc in directions:
+                nr, nc = i + dr, j + dc
+                if 0 <= nr < m and 0 <= nc < n and image[nr][nc] == startcolor:
+                    image[nr][nc] = color
+                    dfs(nr, nc)
+
+        image[sr][sc] = color
+        dfs(sr, sc)
         return image
-
-
-            
-
-
-
-        
