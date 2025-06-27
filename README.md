@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0697-degree-of-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
