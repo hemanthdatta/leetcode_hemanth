@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
