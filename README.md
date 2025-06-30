@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
