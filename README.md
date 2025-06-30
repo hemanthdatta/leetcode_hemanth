@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0697-degree-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -353,15 +357,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
@@ -394,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0595-big-countries) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
