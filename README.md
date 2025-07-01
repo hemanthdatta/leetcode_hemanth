@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
