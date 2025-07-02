@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
 |  |
 | ------- |
