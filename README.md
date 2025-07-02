@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
