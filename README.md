@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
