@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Heap (Priority Queue)
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
