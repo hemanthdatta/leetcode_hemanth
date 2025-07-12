@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0792-binary-search) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0560-subarray-sum-equals-k) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0643-maximum-average-subarray-i) |
