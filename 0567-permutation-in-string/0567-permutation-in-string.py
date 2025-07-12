@@ -10,7 +10,8 @@ class Solution:
 
         matches = 0
         for i in range(26):
-            matches += 1 if s1Count[i] == s2Count[i] else 0
+            if s1Count[i] == s2Count[i]:
+                matches+=1
 
         l = 0
         for r in range(len(s1), len(s2)):
