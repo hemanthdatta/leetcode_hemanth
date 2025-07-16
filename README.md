@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
