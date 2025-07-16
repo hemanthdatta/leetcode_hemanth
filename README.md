@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0234-palindrome-linked-list) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0232-implement-queue-using-stacks) |
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
