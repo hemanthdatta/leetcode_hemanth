@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
+| [1508-longest-happy-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -449,10 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1508-longest-happy-prefix) |
 ## Database
 |  |
 | ------- |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0146-lru-cache) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
