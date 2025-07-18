@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
