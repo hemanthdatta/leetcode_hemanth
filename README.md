@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1786-count-the-number-of-consistent-strings) |
