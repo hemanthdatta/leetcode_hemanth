@@ -5,15 +5,20 @@ class Solution:
         
         n = len(matrix)
         m = len(matrix[0])
-
-        r, c = 0, m - 1
         
-        while r < n and c >= 0:
-            if matrix[r][c] == target:
+        # Treating the matrix as a 1D array
+        left, right = 0, n * m - 1
+        
+        while left <= right:
+            mid = (left + right) // 2
+            # Map the 1D index to 2D matrix
+            mid_val = matrix[mid // m][mid % m]
+            
+            if mid_val == target:
                 return True
-            elif matrix[r][c] < target:
-                r += 1  
+            elif mid_val < target:
+                left = mid + 1
             else:
-                c -= 1
+                right = mid - 1
         
         return False
