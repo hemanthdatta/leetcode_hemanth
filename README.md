@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0268-missing-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
