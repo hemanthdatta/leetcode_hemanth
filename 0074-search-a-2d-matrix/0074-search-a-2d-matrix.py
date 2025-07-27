@@ -6,14 +6,14 @@ class Solution:
         n = len(matrix)
         m = len(matrix[0])
 
-        row, col = 0, m - 1
+        r, c = 0, m - 1
         
-        while row < n and col >= 0:
-            if matrix[row][col] == target:
+        while r < n and c >= 0:
+            if matrix[r][c] == target:
                 return True
-            elif matrix[row][col] < target:
-                row += 1  # Move down to a larger row
+            elif matrix[r][c] < target:
+                r += 1  
             else:
-                col -= 1  # Move left to a smaller column
+                c -= 1
         
         return False
