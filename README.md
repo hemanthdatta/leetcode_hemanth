@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
