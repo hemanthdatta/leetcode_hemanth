@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0053-maximum-subarray) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0148-sort-list) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemanthdatta/leetcode_hemanth/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
